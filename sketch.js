@@ -10,6 +10,7 @@ function preload(){
   hitSound = loadSound('hit.mp3');
 }
 
+
 function setup() {
 
 createCanvas(canvasWidth,canvasHeight);
